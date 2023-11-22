@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from afinn import Afinn
 
 #1.TRUSTPILOT
-# URL of the product reviews page on Best Buy
+# URL of the product reviews page on trustpilot
 base_url = 'https://ca.trustpilot.com/review/ouraring.com?page={}'
 num_pages = 42
 rating_arr = []
